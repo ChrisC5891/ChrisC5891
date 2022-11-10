@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ChrisC5891
+- 👋 Hi, I’m Chris
 - 👀 I’m interested in spending time with family, programming, working out, reading and drawing
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on any project that involves HTML, CSS & JS
