@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Chris
-- 👀 I’m interested in spending time with family, programming, working out, reading and drawing
+- 👀 I’m interested in spending time with family, programming, working out and long dog walks
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on any project that involves HTML, CSS & JS
 - 📫 How to reach me chrisc5891@gmail.com
